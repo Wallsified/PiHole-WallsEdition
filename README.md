@@ -1,7 +1,7 @@
 # PiHole-WallsEdition
 Custom Lists / Master List-Pack for Pi-Hole
 
-#Sources & Other Repositories
+# Sources & Other Repositories
 https://github.com/justdomains/blocklists
 https://github.com/blocklistproject/Lists
 https://firebog.net
